@@ -3,6 +3,10 @@
 
 ## Build Image:
 ```
+docker build -t chinhlc/ubuntu:latest
+```
+## OR Pull Image:
+```
 docker pull chinhlc/demobasic
 ```
 
